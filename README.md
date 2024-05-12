@@ -1,0 +1,1 @@
+A web-based npm app that can infer what a user is signing from only camera input. This is done using our patent pending method of extracting "hand landmarks" and analyzing them to boost inference accuracy. 
